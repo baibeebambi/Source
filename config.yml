@@ -1,0 +1,9 @@
+name: DiscoArmor
+version: 1.0
+main: me.lolitsaods.DiscoArmor.Main
+author: lolitsaods
+description: Become the disco.
+
+commands:
+  discoarmor:
+    description: Enables the Disco Armor.
